@@ -1,0 +1,802 @@
+[
+    {
+        "number": 2940,
+        "author": "sunsingerus",
+        "date_created": "2023-06-29T12:43:56Z",
+        "time_to_merge": 362158,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 2941,
+        "author": "haripate",
+        "date_created": "2023-06-29T14:48:12Z",
+        "time_to_merge": 77537,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 2944,
+        "author": "vivekr-splunk",
+        "date_created": "2023-06-29T22:20:41Z",
+        "time_to_merge": 66813,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2945,
+        "author": "rensyct",
+        "date_created": "2023-06-30T10:27:56Z",
+        "time_to_merge": 287947,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 2946,
+        "author": "skattoju",
+        "date_created": "2023-06-30T14:56:00Z",
+        "time_to_merge": 403334,
+        "authorizer": "maintainer",
+        "interaction": "comment by maintainer"
+    },
+    {
+        "number": 2947,
+        "author": "vmuzikar",
+        "date_created": "2023-06-30T15:43:30Z",
+        "time_to_merge": 2110,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2948,
+        "author": "burmanm",
+        "date_created": "2023-06-30T17:11:11Z",
+        "time_to_merge": 826,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2949,
+        "author": "satyakonduri",
+        "date_created": "2023-06-30T21:10:47Z",
+        "time_to_merge": 300516,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 2950,
+        "author": "gl-distribution-oc",
+        "date_created": "2023-07-04T03:18:25Z",
+        "time_to_merge": 2741,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2952,
+        "author": "teoincontatto",
+        "date_created": "2023-07-04T17:51:04Z",
+        "time_to_merge": 144001,
+        "authorizer": "bot",
+        "interaction": "comment by maintainer"
+    },
+    {
+        "number": 2953,
+        "author": "streamnativebot",
+        "date_created": "2023-07-05T10:02:01Z",
+        "time_to_merge": 20481,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 2954,
+        "author": "streamnativebot",
+        "date_created": "2023-07-05T10:02:27Z",
+        "time_to_merge": 23627,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 2955,
+        "author": "streamnativebot",
+        "date_created": "2023-07-05T10:03:18Z",
+        "time_to_merge": 72516,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 2956,
+        "author": "ack-bot",
+        "date_created": "2023-07-05T12:46:55Z",
+        "time_to_merge": 1434,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2958,
+        "author": "skattoju",
+        "date_created": "2023-07-05T23:04:31Z",
+        "time_to_merge": 3788,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2959,
+        "author": "czunker",
+        "date_created": "2023-07-06T04:05:58Z",
+        "time_to_merge": 5180,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2960,
+        "author": "konveyor-release-bot",
+        "date_created": "2023-07-06T06:17:43Z",
+        "time_to_merge": 735,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2961,
+        "author": "DanielePalaia",
+        "date_created": "2023-07-06T16:09:10Z",
+        "time_to_merge": 801,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2963,
+        "author": "devOpsHelm",
+        "date_created": "2023-07-06T19:55:31Z",
+        "time_to_merge": 6712,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2964,
+        "author": "moolen",
+        "date_created": "2023-07-07T19:54:36Z",
+        "time_to_merge": 1655,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2965,
+        "author": "moolen",
+        "date_created": "2023-07-07T20:07:08Z",
+        "time_to_merge": 1730,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2966,
+        "author": "opentelemetrybot",
+        "date_created": "2023-07-07T20:08:05Z",
+        "time_to_merge": 215286,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 2967,
+        "author": "gl-distribution-oc",
+        "date_created": "2023-07-10T00:54:24Z",
+        "time_to_merge": 2791,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2968,
+        "author": "NissesSenap",
+        "date_created": "2023-07-10T08:50:30Z",
+        "time_to_merge": 1647,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2969,
+        "author": "NissesSenap",
+        "date_created": "2023-07-10T09:43:56Z",
+        "time_to_merge": 277823,
+        "authorizer": "bot",
+        "interaction": "comment by maintainer"
+    },
+    {
+        "number": 2970,
+        "author": "nicoloboschi",
+        "date_created": "2023-07-10T09:54:14Z",
+        "time_to_merge": 9185,
+        "authorizer": "maintainer",
+        "interaction": "comment by maintainer"
+    },
+    {
+        "number": 2971,
+        "author": "leochr",
+        "date_created": "2023-07-10T16:56:01Z",
+        "time_to_merge": 1457,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 2972,
+        "author": "quay-devel",
+        "date_created": "2023-07-10T17:16:48Z",
+        "time_to_merge": 82410,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2974,
+        "author": "john-westcott-iv",
+        "date_created": "2023-07-10T18:57:52Z",
+        "time_to_merge": 1038,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2975,
+        "author": "leochr",
+        "date_created": "2023-07-10T21:28:54Z",
+        "time_to_merge": 32140,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 2976,
+        "author": "guicassolato",
+        "date_created": "2023-07-11T13:04:41Z",
+        "time_to_merge": 797,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2978,
+        "author": "vmuzikar",
+        "date_created": "2023-07-11T15:33:26Z",
+        "time_to_merge": 2300,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2979,
+        "author": "quay-devel",
+        "date_created": "2023-07-11T19:01:55Z",
+        "time_to_merge": 46862,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2980,
+        "author": "ack-bot",
+        "date_created": "2023-07-11T19:07:52Z",
+        "time_to_merge": 1735,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2981,
+        "author": "nicoloboschi",
+        "date_created": "2023-07-11T21:27:56Z",
+        "time_to_merge": 52750,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2982,
+        "author": "pb82",
+        "date_created": "2023-07-12T12:42:08Z",
+        "time_to_merge": 2063,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2984,
+        "author": "nicoloboschi",
+        "date_created": "2023-07-12T14:50:27Z",
+        "time_to_merge": 6706,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2985,
+        "author": "Sosivio-Bot",
+        "date_created": "2023-07-12T14:57:54Z",
+        "time_to_merge": 2710,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2986,
+        "author": "gabriel-farache",
+        "date_created": "2023-07-12T15:22:12Z",
+        "time_to_merge": 431296,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 2987,
+        "author": "acornett21",
+        "date_created": "2023-07-12T21:00:42Z",
+        "time_to_merge": 39211,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 2988,
+        "author": "quay-devel",
+        "date_created": "2023-07-13T06:52:13Z",
+        "time_to_merge": 4296,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2989,
+        "author": "ack-bot",
+        "date_created": "2023-07-13T18:14:50Z",
+        "time_to_merge": 1276,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2990,
+        "author": "mmontes11",
+        "date_created": "2023-07-13T21:03:05Z",
+        "time_to_merge": 1107,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2991,
+        "author": "quay-devel",
+        "date_created": "2023-07-14T06:32:54Z",
+        "time_to_merge": 4792,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2992,
+        "author": "mmontes11",
+        "date_created": "2023-07-14T07:27:23Z",
+        "time_to_merge": 6288,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2993,
+        "author": "2uasimojo",
+        "date_created": "2023-07-14T19:23:51Z",
+        "time_to_merge": 6263,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2994,
+        "author": "quay-devel",
+        "date_created": "2023-07-15T06:46:25Z",
+        "time_to_merge": 4994,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2995,
+        "author": "ack-bot",
+        "date_created": "2023-07-15T16:32:51Z",
+        "time_to_merge": 1367,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2996,
+        "author": "quay-devel",
+        "date_created": "2023-07-16T06:30:13Z",
+        "time_to_merge": 4853,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2997,
+        "author": "mmontes11",
+        "date_created": "2023-07-16T19:06:42Z",
+        "time_to_merge": 1228,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2998,
+        "author": "quay-devel",
+        "date_created": "2023-07-17T06:30:45Z",
+        "time_to_merge": 4527,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 2999,
+        "author": "iamabhishek-dubey",
+        "date_created": "2023-07-17T10:12:03Z",
+        "time_to_merge": 5395,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3000,
+        "author": "abutcher",
+        "date_created": "2023-07-17T14:54:27Z",
+        "time_to_merge": 5638,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3001,
+        "author": "mjiao",
+        "date_created": "2023-07-17T16:46:37Z",
+        "time_to_merge": 52662,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 3002,
+        "author": "souleb",
+        "date_created": "2023-07-18T08:52:42Z",
+        "time_to_merge": 8976,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3003,
+        "author": "gabriel-farache",
+        "date_created": "2023-07-18T08:59:13Z",
+        "time_to_merge": 7845,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 3004,
+        "author": "vmuzikar",
+        "date_created": "2023-07-18T15:57:50Z",
+        "time_to_merge": 53429,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3005,
+        "author": "nmarukovich",
+        "date_created": "2023-07-19T09:59:40Z",
+        "time_to_merge": 684,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3006,
+        "author": "lburgazzoli",
+        "date_created": "2023-07-19T14:34:51Z",
+        "time_to_merge": 59209,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 3007,
+        "author": "souleb",
+        "date_created": "2023-07-19T14:39:12Z",
+        "time_to_merge": 8623,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3008,
+        "author": "ack-bot",
+        "date_created": "2023-07-19T20:01:18Z",
+        "time_to_merge": 987,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3009,
+        "author": "ack-bot",
+        "date_created": "2023-07-19T21:09:55Z",
+        "time_to_merge": 1502,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3010,
+        "author": "ack-bot",
+        "date_created": "2023-07-19T23:07:12Z",
+        "time_to_merge": 589,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3012,
+        "author": "ack-bot",
+        "date_created": "2023-07-20T16:28:17Z",
+        "time_to_merge": 1678,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3013,
+        "author": "quay-devel",
+        "date_created": "2023-07-20T16:55:32Z",
+        "time_to_merge": 5468,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3015,
+        "author": "davidesalerno",
+        "date_created": "2023-07-21T14:17:43Z",
+        "time_to_merge": 254584,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 3016,
+        "author": "quay-devel",
+        "date_created": "2023-07-21T14:20:06Z",
+        "time_to_merge": 5907,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3017,
+        "author": "mmontes11",
+        "date_created": "2023-07-21T16:51:14Z",
+        "time_to_merge": 1336,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3018,
+        "author": "ricardozanini",
+        "date_created": "2023-07-21T17:27:50Z",
+        "time_to_merge": 243104,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 3021,
+        "author": "quay-devel",
+        "date_created": "2023-07-22T06:33:14Z",
+        "time_to_merge": 4968,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3022,
+        "author": "quay-devel",
+        "date_created": "2023-07-23T06:29:54Z",
+        "time_to_merge": 4717,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3023,
+        "author": "Sosivio-Bot",
+        "date_created": "2023-07-23T11:07:12Z",
+        "time_to_merge": 1051,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3024,
+        "author": "DanielePalaia",
+        "date_created": "2023-07-23T12:25:36Z",
+        "time_to_merge": 690,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3025,
+        "author": "chen-keinan",
+        "date_created": "2023-07-23T14:08:57Z",
+        "time_to_merge": 2172,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3026,
+        "author": "gl-distribution-oc",
+        "date_created": "2023-07-24T04:19:12Z",
+        "time_to_merge": 3036,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3027,
+        "author": "quay-devel",
+        "date_created": "2023-07-24T06:32:19Z",
+        "time_to_merge": 4987,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3028,
+        "author": "squakez",
+        "date_created": "2023-07-24T08:42:41Z",
+        "time_to_merge": 2002,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3029,
+        "author": "scholzj",
+        "date_created": "2023-07-24T14:35:10Z",
+        "time_to_merge": 2291,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3030,
+        "author": "lburgazzoli",
+        "date_created": "2023-07-24T15:59:24Z",
+        "time_to_merge": 625,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3031,
+        "author": "ack-bot",
+        "date_created": "2023-07-24T18:45:45Z",
+        "time_to_merge": 1619,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3032,
+        "author": "imilchev",
+        "date_created": "2023-07-24T21:33:41Z",
+        "time_to_merge": 4695,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3033,
+        "author": "ack-bot",
+        "date_created": "2023-07-24T22:29:48Z",
+        "time_to_merge": 1666,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3034,
+        "author": "pb82",
+        "date_created": "2023-07-25T07:47:32Z",
+        "time_to_merge": 1875,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3035,
+        "author": "tremes",
+        "date_created": "2023-07-25T10:57:37Z",
+        "time_to_merge": 8091,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3037,
+        "author": "dt-team-kubernetes",
+        "date_created": "2023-07-26T04:57:42Z",
+        "time_to_merge": 1240,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3038,
+        "author": "gl-distribution-oc",
+        "date_created": "2023-07-26T06:52:21Z",
+        "time_to_merge": 2460,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3039,
+        "author": "pebrc",
+        "date_created": "2023-07-26T12:42:49Z",
+        "time_to_merge": 440678,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 3040,
+        "author": "mmontes11",
+        "date_created": "2023-07-26T20:11:52Z",
+        "time_to_merge": 1304,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3041,
+        "author": "chen-keinan",
+        "date_created": "2023-07-27T10:20:57Z",
+        "time_to_merge": 1655,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3042,
+        "author": "ryanemerson",
+        "date_created": "2023-07-27T12:47:13Z",
+        "time_to_merge": 1671,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3043,
+        "author": "acornett21",
+        "date_created": "2023-07-27T18:15:04Z",
+        "time_to_merge": 334305,
+        "authorizer": "maintainer",
+        "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 3044,
+        "author": "periklis",
+        "date_created": "2023-07-28T08:30:00Z",
+        "time_to_merge": 724,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3046,
+        "author": "jstuever",
+        "date_created": "2023-07-31T18:14:15Z",
+        "time_to_merge": 6198,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3048,
+        "author": "scholzj",
+        "date_created": "2023-08-01T09:01:54Z",
+        "time_to_merge": 2418,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3049,
+        "author": "windupgithubbot1",
+        "date_created": "2023-08-01T13:08:38Z",
+        "time_to_merge": 9663,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3050,
+        "author": "houshengbo",
+        "date_created": "2023-08-01T15:12:12Z",
+        "time_to_merge": 1049,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3051,
+        "author": "dineshsuryaprakash",
+        "date_created": "2023-08-02T01:10:20Z",
+        "time_to_merge": 691,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3053,
+        "author": "windupgithubbot1",
+        "date_created": "2023-08-02T13:28:59Z",
+        "time_to_merge": 794,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3054,
+        "author": "rubenvp8510",
+        "date_created": "2023-08-02T13:36:35Z",
+        "time_to_merge": 678,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 3055,
+        "author": "windupgithubbot1",
+        "date_created": "2023-08-02T19:50:22Z",
+        "time_to_merge": 814,
+        "authorizer": "bot",
+        "interaction": "none"
+    }
+]
